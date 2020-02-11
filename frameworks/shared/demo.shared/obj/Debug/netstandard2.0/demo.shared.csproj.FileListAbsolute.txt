@@ -1,0 +1,8 @@
+/Users/yangjie/code/guwen/demo/frameworks/shared/demo.shared/bin/Debug/netstandard2.0/demo.shared.deps.json
+/Users/yangjie/code/guwen/demo/frameworks/shared/demo.shared/bin/Debug/netstandard2.0/demo.shared.dll
+/Users/yangjie/code/guwen/demo/frameworks/shared/demo.shared/bin/Debug/netstandard2.0/demo.shared.pdb
+/Users/yangjie/code/guwen/demo/frameworks/shared/demo.shared/obj/Debug/netstandard2.0/demo.shared.csprojAssemblyReference.cache
+/Users/yangjie/code/guwen/demo/frameworks/shared/demo.shared/obj/Debug/netstandard2.0/demo.shared.AssemblyInfoInputs.cache
+/Users/yangjie/code/guwen/demo/frameworks/shared/demo.shared/obj/Debug/netstandard2.0/demo.shared.AssemblyInfo.cs
+/Users/yangjie/code/guwen/demo/frameworks/shared/demo.shared/obj/Debug/netstandard2.0/demo.shared.dll
+/Users/yangjie/code/guwen/demo/frameworks/shared/demo.shared/obj/Debug/netstandard2.0/demo.shared.pdb
